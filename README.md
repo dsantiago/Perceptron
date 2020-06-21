@@ -1,1 +1,1 @@
-# Perceptron overview for study puorposes!
+# Perceptron overview for study PURPOSE!
